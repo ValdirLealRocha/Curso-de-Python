@@ -37,4 +37,9 @@ Python não é uma linguagem compilada e sim interpretada, também não é forte
 
 OBS.: No curso eu decidi separar as aulas em arquivos, para o meu aprendizado, não tome como base os meus estudos, siga as aulas e tenha a sua forma de trabalhar e de estudar. :)
 
-Aula 01 - 
+Aula 01 - Instalação e primeiro programa
+
+Aula 02 - Sintaxe básica P2 e Comentários
+
+Aula 03 - Variáveis em Python
+
