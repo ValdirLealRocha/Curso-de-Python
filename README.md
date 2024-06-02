@@ -46,3 +46,5 @@ Aula 03 - Variáveis em Python
 Aula 04 - Tipos de dados em Python
 
 Aula 05 - Tipos numéricos, random e operações de casting
+
+Aula 06 - Strings P1
