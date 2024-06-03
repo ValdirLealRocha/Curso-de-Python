@@ -48,3 +48,7 @@ Aula 04 - Tipos de dados em Python
 Aula 05 - Tipos numéricos, random e operações de casting
 
 Aula 06 - Strings P1
+
+Aula 07 - Strings P2
+
+Aula 08 - Tipo Boolean
