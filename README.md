@@ -52,3 +52,5 @@ Aula 06 - Strings P1
 Aula 07 - Strings P2
 
 Aula 08 - Tipo Boolean
+
+Aula 09 - Coleção List
