@@ -54,3 +54,5 @@ Aula 07 - Strings P2
 Aula 08 - Tipo Boolean
 
 Aula 09 - Coleção List
+
+Aula 10 - Como usar o comando IF em Python
