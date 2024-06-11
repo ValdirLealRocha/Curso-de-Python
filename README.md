@@ -59,6 +59,26 @@ Aula 10 - Como usar o comando IF em Python
 
 Aula 11 - Condicional If Elif Else
 
+Aula 12 - Loop FOR
+
+Aula 13 - Função Input
+
+Aula 14 - Loop While
+
+Aula 15 - O que são as Tuplas em Python
+
+Aula 16 - Matrizes
+
+Aula 17 - Dictionary
+
+Aula 18 - Jogo simples de adivinhação em Python
+
+Aula 19 - Funções P1
+
+Aula 20 - Funções P2 / argumentos de entrada
+
+Aula 21 - Funções P3 / Retorno de valores
+
 
 
 Aula 86 - 
