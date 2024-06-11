@@ -79,6 +79,14 @@ Aula 20 - Funções P2 / argumentos de entrada
 
 Aula 21 - Funções P3 / Retorno de valores
 
+Aula 22 - Funções Lamda ou Funções Anônimas
+
+Aula 23 - POO - Classes / P1
+
+Aula 24 - POO - Classes / P2 / Construtor e métodos
+
+Aula 25 - POO - Herança / P3
+
 
 
 Aula 86 - 
