@@ -87,6 +87,10 @@ Aula 24 - POO - Classes / P2 / Construtor e métodos
 
 Aula 25 - POO - Herança / P3
 
+Aula 26 - Try Except / tratamento de erros
+
+Aula 27 - Exercício Prático 1 / Parte 1
+
 
 
 Aula 86 - 
