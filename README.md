@@ -91,6 +91,10 @@ Aula 26 - Try Except / tratamento de erros
 
 Aula 27 - Exercício Prático 1 / Parte 1
 
+Aula 28 - Exercício Prático 1 / Parte 2
+
+Aula 29 - Iterators
+
 
 
 Aula 86 - 
